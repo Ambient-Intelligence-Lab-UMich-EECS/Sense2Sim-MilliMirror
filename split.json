@@ -1,0 +1,272 @@
+{
+  "from": {
+    "bytes": 7838549,
+    "sha256": "f78583517c08653208091f1ac5e4857ec7c59dc6053eb2a912572ba566752a80"
+  },
+  "page": {
+    "path": "index.html",
+    "bytes": 1735373,
+    "sha256": "c9c57951d9e1e75ce14de56f76e60e31d09f340bd4c7ac859eee0ee15b76c6af"
+  },
+  "files": [
+    {
+      "path": "library/R06.txt",
+      "type": "text/plain",
+      "kind": "library",
+      "id": "R06",
+      "glb": {
+        "bytes": 930900,
+        "sha256": "6ab44e5e8f9ff6f69300d5db217aec918145466397ff47a5bf80257c2d494872"
+      },
+      "library": "model.glb",
+      "bytes": 1241200,
+      "sha256": "f0759e79bdf954a9cb1c0824e374f54327b3bdc87f565def99309155176b3f8b"
+    },
+    {
+      "path": "library/OBJ-cell_tower.txt",
+      "type": "text/plain",
+      "kind": "library",
+      "id": "OBJ-cell_tower",
+      "glb": {
+        "bytes": 320444,
+        "sha256": "c8da467fe3497da2c915c970887527f6400c49be047350da5d28c7dec5ceb33f"
+      },
+      "library": "lod1.glb",
+      "bytes": 427260,
+      "sha256": "c7367099b4628d59b6a68705cd2e8f1736f4520355f965128bb3e3e7699d60bd"
+    },
+    {
+      "path": "library/HUM-adult.txt",
+      "type": "text/plain",
+      "kind": "library",
+      "id": "HUM-adult",
+      "glb": {
+        "bytes": 266668,
+        "sha256": "7bc4ef4503e643339a52b7b3b10d30ef1c06fa218571dc4773c271c6fb9b8e21"
+      },
+      "library": "model.glb",
+      "bytes": 355560,
+      "sha256": "96b96f0d3046751a1c250e0255b735474be17d1ff02926f08497a19c3061647f"
+    },
+    {
+      "path": "library/P02.txt",
+      "type": "text/plain",
+      "kind": "library",
+      "id": "P02",
+      "glb": {
+        "bytes": 234388,
+        "sha256": "6f459dea1a2711c218d1271a593c03a1c3272ef3a7e07e6d6d4e70ce0cdae002"
+      },
+      "library": "lod1.glb",
+      "bytes": 312520,
+      "sha256": "e099046c96e8031bd39bbab9700d38102b287e496442ca9dd6e9fd1be384a670"
+    },
+    {
+      "path": "media/fig-1.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig-1",
+      "bytes": 182773,
+      "sha256": "0b89b0ca4f0ebaa33c943af8a5ed35dae9d7aee591f85c124999180b873d2b3a"
+    },
+    {
+      "path": "media/fig-2.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig-2",
+      "bytes": 41628,
+      "sha256": "1fb49308d28b1f8fe29246ec55e25bef344c362af5538d89907e9de6947c3bb8"
+    },
+    {
+      "path": "media/fig-3.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig-3",
+      "bytes": 27674,
+      "sha256": "785b186fbb193d27bd99651cd258a3a73c9ab64143bdc992ee2277bb2719c468"
+    },
+    {
+      "path": "media/fig-4.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig-4",
+      "bytes": 143419,
+      "sha256": "4137ecc7c7d019f97b93ec2158f3ff69ea2216a00e64da401240d6b620ff4ac1"
+    },
+    {
+      "path": "media/fig-5.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig-5",
+      "bytes": 134248,
+      "sha256": "92ae560bfd31e37c06ea1d987833f52059ca798d14adc91a6dc8c556519ee678"
+    },
+    {
+      "path": "media/fig-6.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig-6",
+      "bytes": 89884,
+      "sha256": "9d689ac813f631e02bfbc0981d2bb88daf4aef7ae8bd745e1b804ce51c634a76"
+    },
+    {
+      "path": "media/fig-7.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig-7",
+      "bytes": 15865,
+      "sha256": "e55a42c6971088ea3e6e1773689cad52eba79c3dbf8f4d98798abacd8636c236"
+    },
+    {
+      "path": "media/fig-8.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig-8",
+      "bytes": 25083,
+      "sha256": "14beee45ad7546fe945d1d093809e364b84d7f4da2d682bd4864d53a63738bc6"
+    },
+    {
+      "path": "media/fig-9.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig-9",
+      "bytes": 71335,
+      "sha256": "3164dc5a0612feabe631be33f4afe24e11ef6d31b5ef2c2971b66d01a7be087e"
+    },
+    {
+      "path": "media/fig-10.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig-10",
+      "bytes": 81236,
+      "sha256": "3c5aa9868c3b8af316f8ba8aa4b979c3b8e1586bafde37a2eb38d44a6aaf5f3c"
+    },
+    {
+      "path": "media/fig-11.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig-11",
+      "bytes": 384102,
+      "sha256": "e52664ba47d06a6178c8c0c89419f876009ad9306a2097d99998541f35afe946"
+    },
+    {
+      "path": "media/fig-12.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig-12",
+      "bytes": 643857,
+      "sha256": "65e24c72939a341e6d28dfd6f41fe2c9181ad65b76a1375a9e794fde5fc0bf34"
+    },
+    {
+      "path": "media/fig-13.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig-13",
+      "bytes": 28672,
+      "sha256": "caad8707245273033e1f459c4807e1f668a7817e68884e25ff013b5f1cb2c18a"
+    },
+    {
+      "path": "media/fig-14.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig-14",
+      "bytes": 24451,
+      "sha256": "bbeaac5ab72f93889b0d09e1b76eeca89d689864a92f4cc64d4d310c4f4fbad0"
+    },
+    {
+      "path": "media/fig-17.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig-17",
+      "bytes": 36713,
+      "sha256": "8a69993fc3889343d49096c7cc935f0f9695cd943c0cc6fa9e9ca9682d1043b7"
+    },
+    {
+      "path": "media/fig-18.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig-18",
+      "bytes": 35142,
+      "sha256": "c496d929fccc0a8f6b67397157bdb50aee9833719179fa5f85b0134f987ed770"
+    },
+    {
+      "path": "media/fig-15.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig-15",
+      "bytes": 20375,
+      "sha256": "3e18300946169c1d5497644f0677e3c2cc0c2df7083bd8072b0915e89c665157"
+    },
+    {
+      "path": "media/fig-16.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig-16",
+      "bytes": 27842,
+      "sha256": "a8256ef108c110703bcf89c656ed60c6a9861f33fb5913f506e0e6a4cbe2eb37"
+    },
+    {
+      "path": "media/fig-19.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig-19",
+      "bytes": 19047,
+      "sha256": "6245e0e41ecb3090713ffa8ea18d5bd2c1173325d723eed8dcc74ac2e8b468ec"
+    },
+    {
+      "path": "media/fig-20.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig-20",
+      "bytes": 25428,
+      "sha256": "8943f062a5d82b5b17cd1dc73abe54c3c5bcbdcc0f466e9f98cbe6418e2e390a"
+    },
+    {
+      "path": "media/fig-21.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig-21",
+      "bytes": 23498,
+      "sha256": "f2251a0156121ad2f6befbb15b1518e555e92d06e59354a2aed3180e4fd05c12"
+    },
+    {
+      "path": "media/fig-22.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig-22",
+      "bytes": 16284,
+      "sha256": "4feb0fdb961746a8daafe5a582c48d10bf978e21dcb8b2f915d25c29a3213620"
+    },
+    {
+      "path": "media/fig-23.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig-23",
+      "bytes": 53651,
+      "sha256": "cb976904e0ed6e3e459841fa4a9be784e6ddc51700b5cc67950590990aa3fb49"
+    },
+    {
+      "path": "kg/exp-kg.json",
+      "type": "application/json",
+      "kind": "kg",
+      "id": "exp-kg",
+      "kb": true,
+      "bytes": 899153,
+      "sha256": "5b61e87851d105a980bbd078ea688c40c2adc8e928c4dc97169e0078899f4ccf"
+    },
+    {
+      "path": "world/millimirror-meeting.glb.js",
+      "type": "text/javascript",
+      "kind": "world",
+      "bytes": 1730291,
+      "sha256": "ff31ad99b44e25602357e203590af81de871800a486f3a469f325e154b267bbb"
+    },
+    {
+      "path": "about/assets.jpg",
+      "type": "image/jpeg",
+      "kind": "about",
+      "bytes": 255701,
+      "sha256": "a51c4183387e14b4b30743bf27ce09d141f5416df282c4171cdf4dd71a7e139f"
+    }
+  ]
+}
